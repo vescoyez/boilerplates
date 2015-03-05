@@ -1,0 +1,9 @@
+{
+    "name": "project-name",
+    "dependencies": {
+        "bootstrap": "latest",
+        "modernizr": "latest",
+        "angular": "latest",
+        "jquery": "~1.11.2"
+    }
+}
